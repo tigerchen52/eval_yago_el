@@ -37,10 +37,10 @@ After that, run the following code to reproduce the *.result files.
 
 ```python
 # YAGO-4
-# The file yago_old.candidate contains all candidates, and the class names from respective YAGO version
+# The file yago_old.candidate contains all candidates, and the class are names from respective YAGO version
 python run_extend.py -dataset_file data/blink_test.json -result_file data/yago_old.result -candidate_file data/yago_old.candidate
 
 # YAGO-4.5
-# The file yago_old.candidate contains all candidates, and the class names from respective YAGO version
+# The file yago_old.candidate contains all candidates, and the class names are from respective YAGO version
 python run_extend.py -dataset_file data/blink_test.json -result_file data/yago_new.result -candidate_file data/yago_new.candidate
 
