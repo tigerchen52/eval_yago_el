@@ -2,7 +2,7 @@
 This repo contains code and data for an extrinsic evaluation of YAGO-4.5. To show the value of the new YAGO 4.5 over YAGO 4, we applied it to the task of entity disambiguation (also called entity linking).
 
 ## A quick reproduction of Table 3
-We provide ready-to-use result files so that you can reproduce results easily.
+We provide ready-to-use result files so that you can reproduce scores easily.
 
 **To get the results for YAGO-4**
 ```python
